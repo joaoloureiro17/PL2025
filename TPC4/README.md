@@ -79,5 +79,5 @@ select ?nome ?desc where {
 
 ### Comentários
 - **In:** `# DBPedia: obras de Chuck Berry`
-- **Out:** (Ignorado pelo analisador)
+
 
